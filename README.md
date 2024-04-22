@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rootachamp
+- 👋 Hi, I’m @rootachamp.
   I have worked various domains like Healthcare, Insurance, Finance, Energy, Banking, and Manufacturing through my career so far.
 I have 19 years of experience working on C#, Angular, Blazor, DotNet 6, DotNet Core 3.1, Web API, Azure, CI CD Pipeline, Azure Identity Management, Data Factory, Azure Functions, Power BI, ASP.NET, WPF, MVVM, PRISM, MVC3, MVC5, ADO.NET, Entity Framework, ASP.NET Web API, WCF, REST API, XML Web services, WSDL, UDDI, Disco, SOAP, .Net Remoting, Postman, Swagger, HTML, Java Script, Angular JS, SQL Server, Cosmos DB, Protractor, Karma, SSIS, SSRS, TSQL, Unity, OnBase, ImageRight, Microservices.
